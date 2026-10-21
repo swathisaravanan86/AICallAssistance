@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistance",
+  "description": "Smart AI voice call screening prototype to detect caller purpose, assess spam risk, and summarize live conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
